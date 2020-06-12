@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am interested in computational and statistical solutions applied into interdisciplinary contexts.
 education:
   courses:
   - course: PhD in Statistics Design and Analysis of Experiments
@@ -19,33 +18,38 @@ education:
     year: 2010
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational and applied atatistics
+- Machine learning
+- Statistics and data science applied to economics and econometrics
+- Statistics and data science applied to health care sector 
+- Statistics and data science applied to biotech and agriculture
+- Information technology management
+- Decision analysis, risk management and insurance
+- Agriculture and agribusiness
 organizations:
-- name: Stanford University
+- name: Hamilton Institute National University of Ireland
   url: ""
-role: Professor of Artificial Intelligence
+role: Researcher
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: envelope
+ # icon_pack: fas
+#  link: '#contact'
+#- icon: twitter
+#  icon_pack: fab
+ # link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+ # icon_pack: ai
+ # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/danilosarti
 superuser: true
-title: Nelson Bighetti
+title: Danilo Sarti 
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am interested in providing solutions by means of computational, statistical and engineering methodologies to complex and new problems in interdisciplinary contexts.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
