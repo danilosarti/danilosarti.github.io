@@ -29,7 +29,7 @@ interests:
 organizations:
 - name: Hamilton Institute National University of Ireland
   url: ""
-role: Researcher
+role: Data Scientist 
 social:
 #- icon: envelope
  # icon_pack: fas
