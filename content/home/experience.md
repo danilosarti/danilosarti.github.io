@@ -18,27 +18,64 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Researcher"
+  company = "Hamilton Institute"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Ireland"
+  date_start = "2020-03-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Applied statistics and computer sciences
+  * Interdisciplinary studies
+  * EU projects
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Consultant"
+  company = ""
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2010-03-01"
+  date_end = "2020-03-01"
+  description = """
+  Responsibilities include:
+  
+  * Statistical consultant in agriculture, biotech, economics and health care sectors
+  * Consultant for decision analaysis and risk management
+
+  """
+
+
+
+
+
+[[experience]]
+  title = "Director of Data Science, Regulattory Affairs and Business"
+  company = "Criagene SK"
+  company_url = ""
+  location = "Brazil"
+  date_start = "2016-03-01"
+  date_end = "2013-03-01"
+  description = """ Responsibilities included direction of:
+  
+  * Statistical modelling for business and regulattory purposes
+  * Decision analysis and risk management
+  * Research and Deverlopment  """
+
+
+[[experience]]
+  title = "Member of the founder team of"
+  company = "Criagene SK"
+  company_url = ""
+  location = "Brazil"
+  date_start = "2011-03-01"
+  date_end = "2009-12-01"
+  description = """ Responsibilities included implementention of a new enteprise in brazilian biotech and germplasm sector
+   """
+
+
+
 
 +++
