@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am interested in computational and statistical solutions applied into interdisciplinary contexts.
+bio: I am interested in computational and statistical solutions applied into interdisciplinary contexts. Contact: danilo.estat@gmail.com
 education:
   courses:
   - course: PhD in Statistics Design and Analysis of Experiments
