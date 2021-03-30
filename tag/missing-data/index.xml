@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R | Danilo Sarti</title>
-    <link>/category/r/</link>
-      <atom:link href="/category/r/index.xml" rel="self" type="application/rss+xml" />
-    <description>R</description>
+    <title>Missing data | Danilo Sarti</title>
+    <link>/tag/missing-data/</link>
+      <atom:link href="/tag/missing-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Missing data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Danilo Sarti `2020` </copyright><lastBuildDate>Wed, 10 Jun 2020 21:13:14 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>R</title>
-      <link>/category/r/</link>
+      <title>Missing data</title>
+      <link>/tag/missing-data/</link>
     </image>
     
     <item>

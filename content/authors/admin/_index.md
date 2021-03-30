@@ -18,7 +18,7 @@ education:
     year: 2010
 email: ""
 interests:
-- Computational and applied atatistics
+- Computational and applied statistics
 - Machine learning
 - Statistics and data science applied to economics and econometrics
 - Statistics and data science applied to health care sector 
