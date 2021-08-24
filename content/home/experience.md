@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Researcher"
   company = "Hamilton Institute"
-  company_url = ""
+  company_url = "https://www.maynoothuniversity.ie/hamilton"
   location = "Ireland"
   date_start = "2020-03-01"
   date_end = ""
@@ -54,21 +54,21 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Director of Data Science, Regulattory Affairs and Business"
   company = "Criagene SK"
-  company_url = ""
+  company_url = "http://criagene.com/"
   location = "Brazil"
   date_start = "2016-03-01"
   date_end = "2013-03-01"
   description = """ Responsibilities included direction of:
   
-  * Statistical modelling for business and regulattory purposes
+  * Statistical modelling for business and regulatory purposes
   * Decision analysis and risk management
-  * Research and Deverlopment  """
+  * Research and Development  """
 
 
 [[experience]]
   title = "Member of the founder team of"
   company = "Criagene SK"
-  company_url = ""
+  company_url = "http://criagene.com/"
   location = "Brazil"
   date_start = "2011-03-01"
   date_end = "2009-12-01"

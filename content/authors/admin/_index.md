@@ -21,16 +21,17 @@ interests:
 - Computational and applied statistics
 - Machine learning
 - Statistics and data science applied to economics and econometrics
-- Financial modelling
+- Financial modelling and Financial economics
 - Statistics and data science applied to health care sector 
 - Statistics and data science applied to biotech and agriculture
 - Information technology management
 - Decision analysis, risk management and insurance
 - Agriculture and agribusiness
+- Quality assurance
 organizations:
 - name: Hamilton Institute National University of Ireland
   url: ""
-role: Data Scientist 
+role: Data Scientist / Senior Researcher 
 social:
 #- icon: envelope
  # icon_pack: fas
