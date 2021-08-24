@@ -21,7 +21,7 @@ interests:
 - Computational and applied statistics
 - Machine learning
 - Statistics and data science applied to economics and econometrics
-- Financial modelling and Financial economics
+- Financial Modelling and Financial economics
 - Statistics and data science applied to health care sector 
 - Statistics and data science applied to biotech and agriculture
 - Information technology management
