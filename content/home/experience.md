@@ -52,7 +52,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Director of Data Science, Regulattory Affairs and Business"
+  title = "Director of Data Science, Regulatory Affairs and Business"
   company = "Criagene SK"
   company_url = "http://criagene.com/"
   location = "Brazil"
