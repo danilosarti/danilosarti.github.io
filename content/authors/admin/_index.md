@@ -7,7 +7,7 @@ education:
   - course: PhD in Statistics Design and Analysis of Experiments
     institution: University of São Paulo
     year: 2019
-  - course: Bsc in Applied Economics
+  - course: Msc in Applied Economics
     institution: University of São Paulo
     year: 2013
   - course: Certified Lean Sigma Green Belt
