@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+This page highlights research, teaching, software, and interdisciplinary projects.
+
+## Examples
+
+- AI/ML educational materials and courses
+- Interpretable AI workflows
+- Biomedical data science collaborations
+- Quarto and reproducible research resources

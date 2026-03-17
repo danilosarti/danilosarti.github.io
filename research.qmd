@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+# Research
+
+My research focuses on interpretable machine learning, applied statistics, uncertainty-aware modelling, and AI for health and biomedical data.
+
+## Main themes
+
+- Interpretable AI and explainable machine learning
+- Bayesian and frequentist statistical modelling
+- High-dimensional data and predictive modelling
+- Biomedical and translational applications
+- Decision science and uncertainty

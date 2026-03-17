@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Danilo Sarti"
+  navbar:
+    pinned: true
+    left: []
+    right:
+      - text: RCSI
+        href: https://www.rcsi.com/online
+      - icon: github
+        href: https://github.com/danilosarti
+      - icon: linkedin
+        href: https://www.linkedin.com/in/danilo-augusto-sarti/
+      - text: IreData
+        href: https://iredata.com/
+  page-footer:
+    left: "© Danilo Sarti"
+    right: ""
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: cyborg
+    respect-user-color-scheme: true
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    highlight-style: github
+
+execute:
+  freeze: auto

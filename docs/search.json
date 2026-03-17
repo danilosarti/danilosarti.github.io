@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a lecturer, statistician, and researcher working across artificial intelligence, machine learning, applied statistics, decision science, and health data science.\nMy work combines methodological development, teaching, and applied research across medicine, biology, computational modelling, and interdisciplinary real-world problems.\n\n\n\nInterpretable machine learning\nApplied statistics and statistical modelling\nAI for health and biomedical research\nDecision science and uncertainty\nGenerative AI and language models\nReproducible computational workflows\n\n\n\n\n\nPhD in Statistics — University of São Paulo\nMSc in Applied Economics — University of São Paulo\nBSc in Agricultural Engineering — University of São Paulo\n\n\n\n\nLecturer in AI/ML, with teaching and research interests spanning interpretable AI, statistical modelling, generative AI, and biomedical applications."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "",
+    "text": "Interpretable machine learning\nApplied statistics and statistical modelling\nAI for health and biomedical research\nDecision science and uncertainty\nGenerative AI and language models\nReproducible computational workflows"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "PhD in Statistics — University of São Paulo\nMSc in Applied Economics — University of São Paulo\nBSc in Agricultural Engineering — University of São Paulo"
+  },
+  {
+    "objectID": "about.html#current-role",
+    "href": "about.html#current-role",
+    "title": "About",
+    "section": "",
+    "text": "Lecturer in AI/ML, with teaching and research interests spanning interpretable AI, statistical modelling, generative AI, and biomedical applications."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page highlights research, teaching, software, and interdisciplinary projects.\n\n\n\nAI/ML educational materials and courses\nInterpretable AI workflows\nBiomedical data science collaborations\nQuarto and reproducible research resources"
+  },
+  {
+    "objectID": "projects.html#examples",
+    "href": "projects.html#examples",
+    "title": "Projects",
+    "section": "",
+    "text": "AI/ML educational materials and courses\nInterpretable AI workflows\nBiomedical data science collaborations\nQuarto and reproducible research resources"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on interpretable machine learning, applied statistics, uncertainty-aware modelling, and AI for health and biomedical data.\n\n\n\nInterpretable AI and explainable machine learning\nBayesian and frequentist statistical modelling\nHigh-dimensional data and predictive modelling\nBiomedical and translational applications\nDecision science and uncertainty"
+  },
+  {
+    "objectID": "research.html#main-themes",
+    "href": "research.html#main-themes",
+    "title": "Research",
+    "section": "",
+    "text": "Interpretable AI and explainable machine learning\nBayesian and frequentist statistical modelling\nHigh-dimensional data and predictive modelling\nBiomedical and translational applications\nDecision science and uncertainty"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Current teaching themes include AI, machine learning, neural networks, clustering, interpretable AI, and generative AI.\n\n\n\nAI/ML for health\nStatistical learning\nNeural networks and deep learning\nClustering and unsupervised learning\nGenerative AI foundations\nReproducible analytics with R and Quarto"
+  },
+  {
+    "objectID": "teaching.html#teaching-areas",
+    "href": "teaching.html#teaching-areas",
+    "title": "Teaching",
+    "section": "",
+    "text": "AI/ML for health\nStatistical learning\nNeural networks and deep learning\nClustering and unsupervised learning\nGenerative AI foundations\nReproducible analytics with R and Quarto"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\n\nGitHub: https://github.com/danilosarti\nLinkedIn: https://www.linkedin.com/in/danilosarti/\nEmail: your_email_here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Danilo Sarti",
+    "section": "",
+    "text": "Royal College of Surgeons of Ireland\nConsultant, IreData\nI work at the intersection of AI, statistics, and economics, applying data-driven methods to healthcare, biological, economic, and agricultural systems. My work focuses on turning complex data into insights that support better decisions under uncertainty in real-world, risk, and regulatory contexts.\n\ndanilosarti@rcsi.ie\ndanilo.stats@gmail.com"
+  },
+  {
+    "objectID": "index.html#lecturer-in-aiml-statistician-health-data-science",
+    "href": "index.html#lecturer-in-aiml-statistician-health-data-science",
+    "title": "Danilo Sarti",
+    "section": "",
+    "text": "Royal College of Surgeons of Ireland\nConsultant, IreData\nI work at the intersection of AI, statistics, and economics, applying data-driven methods to healthcare, biological, economic, and agricultural systems. My work focuses on turning complex data into insights that support better decisions under uncertainty in real-world, risk, and regulatory contexts.\n\ndanilosarti@rcsi.ie\ndanilo.stats@gmail.com"
+  }
+]

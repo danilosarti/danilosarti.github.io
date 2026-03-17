@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+---
+
+# Teaching
+
+Current teaching themes include AI, machine learning, neural networks, clustering, interpretable AI, and generative AI.
+
+## Teaching areas
+
+- AI/ML for health
+- Statistical learning
+- Neural networks and deep learning
+- Clustering and unsupervised learning
+- Generative AI foundations
+- Reproducible analytics with R and Quarto

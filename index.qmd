@@ -1,0 +1,31 @@
+---
+title: ""
+---
+
+::: {.hero-wrap}
+
+::: {.hero-left}
+
+# Danilo Sarti
+
+## Lecturer in AI/ML · Statistician · Health Data Science
+
+Royal College of Surgeons of Ireland  
+Consultant, IreData
+
+I work at the intersection of AI, statistics, and economics, applying data-driven methods to healthcare, biological, economic, and agricultural systems. My work focuses on turning complex data into insights that support better decisions under uncertainty in real-world, risk, and regulatory contexts.
+
+::: {.hero-contact}
+
+[danilosarti@rcsi.ie](mailto:danilosarti@rcsi.ie)  
+[danilo.stats@gmail.com](mailto:danilo.stats@gmail.com)
+
+:::
+
+:::
+
+::: {.hero-right}
+![](images/photo.jpg){.hero-image}
+:::
+
+:::

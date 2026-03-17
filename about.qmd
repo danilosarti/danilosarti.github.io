@@ -1,0 +1,28 @@
+---
+title: "About"
+---
+
+# About
+
+I am a lecturer, statistician, and researcher working across artificial intelligence, machine learning, applied statistics, decision science, and health data science.
+
+My work combines methodological development, teaching, and applied research across medicine, biology, computational modelling, and interdisciplinary real-world problems.
+
+## Interests
+
+- Interpretable machine learning
+- Applied statistics and statistical modelling
+- AI for health and biomedical research
+- Decision science and uncertainty
+- Generative AI and language models
+- Reproducible computational workflows
+
+## Education
+
+- PhD in Statistics — University of São Paulo
+- MSc in Applied Economics — University of São Paulo
+- BSc in Agricultural Engineering — University of São Paulo
+
+## Current role
+
+Lecturer in AI/ML, with teaching and research interests spanning interpretable AI, statistical modelling, generative AI, and biomedical applications.
